@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirul</h1>
-<h3 align="center">Aspiring Software Developer from Malaysia</h3>
+<h3 align="center">Aspiring Software/Python/Machine Learning Developer from Malaysia</h3>
 
 - 🌱 I’m currently learning **Django, Machine Learning and Deep Learning**
 
