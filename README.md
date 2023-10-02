@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **amirulal73@gmail.com**
 
-- ⚡ Fun fact **I still google on how to center a div**
+- ⚡ Fun fact **:I still google on how to center a div**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
