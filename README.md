@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amirul</h1>
 <h3 align="center">Aspiring Developer from Malaysia</h3>
 
-- 🌱 I’m currently learning **Django, Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Laravel, Machine Learning and Deep Learning**
 
-- 💬 Ask me about **Python and Django**
+- 💬 Ask me about **Python and Web development**
 
 - 📫 How to reach me **amirulal73@gmail.com**
 
