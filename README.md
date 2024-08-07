@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Laravel, Machine Learning and Deep Learning**
 
-- 💬 Ask me about **Python and Web development**
-
 - 📫 How to reach me **amirulal73@gmail.com**
 
 - ⚡ Fun fact: **I am still googling on how to center a div**
