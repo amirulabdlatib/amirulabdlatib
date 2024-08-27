@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirul</h1>
-<h3 align="center">Aspiring Developer from Malaysia</h3>
+<h3 align="center">Full Stack Developer with passion in web development and data science from Malaysia</h3>
 
 - 🌱 I’m currently learning **Laravel, Machine Learning and Deep Learning**
 
