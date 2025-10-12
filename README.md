@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirul</h1>
-<h3 align="center">A Full stack Developer skilled in Laravel/Django and Data Science/Artificial Intelligence/Generative AI</h3>
+<h3 align="center">A Full stack Developer skilled in Laravel</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
